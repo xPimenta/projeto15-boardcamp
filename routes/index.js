@@ -6,4 +6,4 @@ const router = Router()
 router.use(categoryRouter)
 
 
-export default router;
+export default router
